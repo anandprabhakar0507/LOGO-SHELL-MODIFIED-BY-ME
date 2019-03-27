@@ -1,7 +1,7 @@
 jslogo - Logo in JavaScript
 ===========================
-
-This is hosted at https://inexorabletash.github.io/jslogo/ for playing with live.
+### modified version by me can be found at (link)[https://git.io/fhjFz]
+This is originally hosted at https://inexorabletash.github.io/jslogo/ for playing with live.
 
 [Language Reference](https://htmlpreview.github.com/?https://github.com/inexorabletash/jslogo/blob/master/language.html) -
 this attempts to implement a subset of [UCBLogo](https://www.cs.berkeley.edu/~bh/v2ch14/manual.html)
