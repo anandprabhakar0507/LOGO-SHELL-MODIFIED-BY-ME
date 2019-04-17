@@ -9,6 +9,7 @@ defined in in *Brian Harvey's Computer Science Logo Style*
 
 Logo Examples
 -------------
+####use the commands below..
     to star repeat 5 [ fd 100 rt 144 ] end
     star
     to square :length repeat 4 [ fd :length rt 90 ] end
